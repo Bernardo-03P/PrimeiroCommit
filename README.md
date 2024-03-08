@@ -1,4 +1,4 @@
-<h1 align="center">Inicio de Tudo</h1>
+<h1 align="center">Inicio de Tudo</h1>             
 
 <p align="center">Minha primeira vez</p>
 
@@ -13,3 +13,5 @@ Aqui estão alguns dos comandos do Git!
 - `git branch`: Lista os branches existentes no repositório.
 - `git checkout <branch>`: Alterna para o branch especificado.
 - `git merge <branch>`: Combina as alterações do branch especificado com o branch atual.
+
+A última atualização deste projeto foi em: <!--LAST_UPDATED_TIMESTAMP-->
