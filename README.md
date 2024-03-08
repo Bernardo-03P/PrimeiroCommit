@@ -14,4 +14,4 @@ Aqui estão alguns dos comandos do Git!
 - `git checkout <branch>`: Alterna para o branch especificado.
 - `git merge <branch>`: Combina as alterações do branch especificado com o branch atual.
 
-A última atualização deste projeto foi em: <!--LAST_UPDATED_TIMESTAMP-->
+Última atualização: 8 de março de 2024
