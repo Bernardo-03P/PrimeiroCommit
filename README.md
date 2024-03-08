@@ -1,9 +1,10 @@
 <h1 align="center">Inicio de Tudo</h1>
-<p align="center">Minha primeira vez</p>
-<p align="center">Comandos Git e pesquisa</p>
-## Comandos do Git
 
-Aqui estão alguns dos comandos do Git que você pode usar ao trabalhar neste projeto:
+<p align="center">Minha primeira vez</p>
+
+<p align="center">Comandos Git e pesquisa</p>
+
+Aqui estão alguns dos comandos do Git!
 
 - `git init`: Inicializa um repositório Git vazio.
 - `git add <arquivo>`: Adiciona um arquivo específico para ser rastreado pelo Git.
