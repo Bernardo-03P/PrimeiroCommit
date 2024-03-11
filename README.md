@@ -1,10 +1,10 @@
-:hourglass: ou :hourglass_flowing_sand: <h1 align="center">Inicio de Tudo</h1>               
+<h1 align="center">Inicio de Tudo</h1>              
 
 <p align="center">Minha primeira vez</p>
 
 <p align="center">Comandos Git e pesquisa</p>
 
-Aqui estão alguns dos comandos do Git!
+:hourglass: Aqui estão alguns dos comandos do Git! :hourglass_flowing_sand:
 
 - `git init`: Inicializa um repositório Git vazio.
 - `git add <arquivo>`: Adiciona um arquivo específico para ser rastreado pelo Git.
@@ -14,4 +14,4 @@ Aqui estão alguns dos comandos do Git!
 - `git checkout <branch>`: Alterna para o branch especificado.
 - `git merge <branch>`: Combina as alterações do branch especificado com o branch atual.
 
-Última atualização: 8 de março de 2024
+:stopwatch: Última atualização: 8 de março de 2024 :stopwatch:
