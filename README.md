@@ -1,4 +1,4 @@
-<h1 align="center">Inicio de Tudo</h1>             
+:hourglass: ou :hourglass_flowing_sand: <h1 align="center">Inicio de Tudo</h1>               
 
 <p align="center">Minha primeira vez</p>
 
