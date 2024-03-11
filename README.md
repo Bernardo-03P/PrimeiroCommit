@@ -14,4 +14,4 @@
 - `git checkout <branch>`: Alterna para o branch especificado.
 - `git merge <branch>`: Combina as alterações do branch especificado com o branch atual.
 
-:stopwatch: Última atualização: 8 de março de 2024 :stopwatch:
+:stopwatch: Última atualização: 11 de março de 2024 :stopwatch:
